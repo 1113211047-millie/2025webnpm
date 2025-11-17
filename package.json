@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-lightbox-example",
+  "version": "1.0.0",
+  "description": "A simple example using Bootstrap 5 and Lightbox2 managed by npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "lightbox2",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "lightbox2": "^2.11.4"
+  }
+}
